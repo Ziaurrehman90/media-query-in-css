@@ -1,0 +1,202 @@
+@media screen and (min-width:800px) {
+    img{
+        height: 50px;
+        width: 50px;
+    }
+    .container{
+        display: grid;
+        grid-template-rows: auto;
+        grid-template-columns: 400px 100px 100px 100px 100px 400px;
+        background-color: black;
+        height: 50px;
+    }
+    a{
+        color: white;
+        text-decoration: none;
+    
+    }
+    .it6{
+        justify-content: end;
+        justify-self: end;
+        padding-top: 12px;
+        /* background-color: blue;
+        color: white; */
+    }
+    button{
+        background-color: blue;
+        color: white;
+        width: 100px;
+        height: 25px ;
+    }
+    
+    .it{
+        padding-top: 20px;
+        /* margin: 10px; */
+        /* text-align: center; */
+    }
+    .it7{
+        display: none;
+    }
+    video{
+        height: 500px;
+        width: 600px;
+        
+    }
+    .ziaurrehman{
+        display: grid;
+        grid-template-rows: auto ;
+        grid-template-columns: auto auto;
+    }
+    
+    .zia1{
+        margin-top: 70px;
+        margin-left: 20px;
+    }
+    .zia1>h2{
+        color: black;
+        font-weight: none;
+        text-decoration: none;
+        margin-bottom: 2px;
+        /* margin-left:20px ; */
+    }
+    .zia1>h1{
+        color: rgb(0, 162, 255);
+        font-size: 45px;
+        margin-top: 0px;
+        padding-top: 0px;
+        margin-bottom: 15px;
+    }
+    .zia1>h4{
+        color: rgb(0, 162, 255);
+        margin-top: 2px;
+
+    }
+    .zia1>img{
+        width: 400px;
+        height: 200px;
+        margin-bottom: 20px;
+    }
+   .zia2>img{
+    height: 500px;
+    width: 300px;
+    position: absolute;
+    right: 40px;
+    top: 100px;
+   }
+   .zia2>video{
+    position: absolute;
+    right: 120px;
+    top: 160px ;
+    height: 600px;
+   }
+   .malik{
+    margin-top: 200px;
+    width: 100vw;
+    background-color: black;
+    height: 400px;
+    text-align: center;
+   }
+   .malik>h1{
+    color: blue;
+    margin-top: 50px;
+    padding-top: 100px;
+   }
+   .malik>.hh{
+    color: white;
+   }
+   
+
+    
+}
+@media screen and (max-width:800px) {
+    
+    .container{
+     background-color: black;
+     height: 80px;
+     display: grid;
+     grid-template-rows: auto;
+     grid-template-columns: auto auto;
+ 
+    }
+    img{
+     height: 60px;
+     width: 60px;
+     margin-top: 10px;
+    }
+    .b{
+     display: none;
+    }
+    .it7{
+     height: 70px;
+     width: 70px;
+     justify-self: end;
+    }
+    .ziaurrehman{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .zia1{
+        margin-top: 70px;
+        margin-left: 20px;
+    }
+    .zia1>h2{
+        color: black;
+        font-weight: none;
+        text-decoration: none;
+        margin-bottom: 2px;
+        /* margin-left:20px ; */
+    }
+    .zia1>h1{
+        color: rgb(0, 162, 255);
+        font-size: 45px;
+        margin-top: 0px;
+        padding-top: 0px;
+        margin-bottom: 15px;
+    }
+    .zia1>h4{
+        color: rgb(0, 162, 255);
+        margin-top: 2px;
+
+    }
+    .zia1>img{
+        width: 400px;
+        height: 200px;
+        margin-bottom: 20px;
+    }
+   .zia2>img{
+    height: 500px;
+    width: 300px;
+    position: absolute;
+    right: 40px;
+    top: 700px;
+   }
+   .zia2>video{
+    position: absolute;
+    right: 120px;
+    top: 700px ;
+    height: 600px;
+   }
+   .malik{
+    margin-top: 750px;
+    width: 100vw;
+    background-color:white;
+    height: 400px;
+    text-align: center;
+   }
+    .malik>h1{
+        color: blue;
+        margin-top: 50px;
+        padding-top: 50px;
+       }
+       .malik>.hh{
+        color:black;
+       }
+   
+
+   
+    
+   
+ 
+ 
+}

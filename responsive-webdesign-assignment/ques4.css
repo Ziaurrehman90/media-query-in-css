@@ -1,0 +1,52 @@
+@media screen and (min-width:800px) {
+    body{
+        background-color: black;
+        color: white;
+    }
+    .malik{
+        margin-left: 80px;
+        margin-top: 30px;
+    }
+    .m1{
+        width: 80vw;
+        height: 80vh;
+        border: 2px white solid;
+        /* text-align: center; */
+    }
+    th{
+        text-align: left;
+    }
+    tr{
+        outline:  1px white solid;
+    }
+    
+}
+@media screen and (max-width:800px) {
+    body{
+        background-color: black;
+        color: white;
+    }
+    .malik{
+        margin-left: 50px;
+        margin-top: 30px;
+    }
+    .m1{
+        width: 80vw;
+        height: 80vh;
+        border: 2px white solid;
+        /* text-align: center; */
+    }
+    th{
+        text-align: left;
+    }
+    tr{
+        outline:  1px white solid;
+    }
+    table{
+        /* display: block; */
+        overflow-x: auto;
+        /* display: block; */
+        width: 50%;
+    }
+   
+}
