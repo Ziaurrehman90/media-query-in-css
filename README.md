@@ -15,9 +15,6 @@ part (a) : for full screen:
 ![Screenshot (62)](https://github.com/Ziaurrehman90/media-query-in-css/assets/112377951/b8376e80-0d34-4995-9c74-6f3ef05ef232)
 part (b) : for small screen :
 
-![Screenshot (65)](https://github.com/Ziaurrehman90/media-query-in-css/assets/112377951/48d626e7-fe98-49b7-a7bc-9cc844de1dc9)
-
-
 ![Screenshot (64)](https://github.com/Ziaurrehman90/media-query-in-css/assets/112377951/b35fec9e-ccf8-4599-b454-75e1113d4dd2)
 
 Ques 3 : 
